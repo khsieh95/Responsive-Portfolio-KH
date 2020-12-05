@@ -4,3 +4,10 @@ body {background-color: royalblue;}
     background-color: royalblue;
     color: white;
 }
+
+
+
+.card-title {
+    color: royalblue;
+    border-bottom: 1px solid;
+}
