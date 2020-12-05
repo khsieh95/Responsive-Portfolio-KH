@@ -6,6 +6,9 @@ body {background-color: royalblue;}
     
 }
 
+header {
+    color: white;
+}
 .card-title {
     color: royalblue;
     border-bottom: 1px solid;
