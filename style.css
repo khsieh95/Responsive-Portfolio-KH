@@ -1,11 +1,10 @@
 body {background-color: royalblue;}
 
-.navbar-brand {
-    background-color: royalblue;
-    color: white;
+.card {
+    margin: 50px auto;
+    width:50px;
+    
 }
-
-
 
 .card-title {
     color: royalblue;
