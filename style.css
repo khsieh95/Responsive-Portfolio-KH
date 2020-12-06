@@ -1,15 +1,33 @@
 body {background-color: royalblue;}
 
-.card {
-    margin: 50px auto;
-    width:50px;
-    
-}
+
 
 header {
-    color: white;
+    color: black;
+    margin: 2.5% auto;
+    border-bottom: 1px solid;
 }
+
+h1 {
+    margin: 0 auto;
+}
+
+.col-3, .col-9{
+    margin-block: 3.14%;}
+
+.container {
+    background-color: white;
+}
+
+
+.card {
+        margin: 50px auto;
+        width:50px;
+        
+}    
 .card-title {
     color: royalblue;
     border-bottom: 1px solid;
 }
+
+
