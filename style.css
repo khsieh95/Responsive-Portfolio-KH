@@ -1,19 +1,21 @@
-body {background-color: royalblue;}
+body {background-image: url(https://github.com/khsieh95/Responsive-Portfolio-KH/blob/main/photos/pexels-henry-&-co-1939485.jpg?raw=true);
+}
 
 
 
-header {
+.header{
     color: black;
-    margin: 2.5% auto;
+    margin-bottom: 2%;
     border-bottom: 1px solid;
 }
 
 h1 {
-    margin: 0 auto;
+    margin: 2%;
+       
 }
 
 .col-3, .col-9{
-    margin-block: 3.14%;}
+    margin-block: 2%;}
 
 .container {
     background-color: white;
@@ -25,9 +27,12 @@ h1 {
         width:50px;
         
 }    
-.card-title {
-    color: royalblue;
+
+
+/* .contact {
+    margin-top: 0%;
+    margin-left: .2%;
     border-bottom: 1px solid;
-}
+} */
 
 
