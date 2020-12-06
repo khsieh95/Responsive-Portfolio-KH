@@ -1,7 +1,6 @@
 body {background-image: url(https://github.com/khsieh95/Responsive-Portfolio-KH/blob/main/photos/pexels-henry-&-co-1939485.jpg?raw=true);
+    font-family: 'Castoro', serif;
 }
-
-
 
 .header{
     color: black;
@@ -10,18 +9,14 @@ body {background-image: url(https://github.com/khsieh95/Responsive-Portfolio-KH/
 }
 
 h1 {
-    margin: 2% auto;
-       
+    margin: 2% auto;     
 }
 
-.col-3, .col-9{
-    margin-block: 2%;}
+.col-3, .col-9 {
+    margin-block: 2%;
+}
 
 .container {
     margin:3% auto;
     background-color: white;
 }
-
-
-
-
