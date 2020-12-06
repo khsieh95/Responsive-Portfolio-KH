@@ -10,7 +10,7 @@ body {background-image: url(https://github.com/khsieh95/Responsive-Portfolio-KH/
 }
 
 h1 {
-    margin: 2%;
+    margin: 2% auto;
        
 }
 
@@ -22,17 +22,7 @@ h1 {
 }
 
 
-.card {
-        margin: 50px auto;
-        width:50px;
-        
-}    
-
-
-/* .contact {
-    margin-top: 0%;
-    margin-left: .2%;
-    border-bottom: 1px solid;
+/* .form {
+    margin-bottom: 3%;
 } */
-
 
