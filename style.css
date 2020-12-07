@@ -1,31 +1,29 @@
-/* Set background photo and font for body */
+/* For all 3 html files, Set background photo and font for body */
 body {background-image: url(https://github.com/khsieh95/Responsive-Portfolio-KH/blob/main/photos/pexels-henry-&-co-1939485.jpg?raw=true);
     font-family: 'Castoro', serif;
 }
 
-
-/* Attached same header to all html files */
 .header{
     color: black;
     margin-bottom: 2%;
     border-bottom: 1px solid;
 }
 
-
 h1 {
     margin-top : 2%;     
 }
-
-.col-3, .col-9 {
-    margin-block: 2%;
-}
-
 
 .container {
     margin:3% auto;
     background-color: white;
 }
 
+/* Edited Margin for columns for Index.html */
+.col-3, .col-9 {
+    margin-block: 2%;
+}
+
+/* For Portfolio page...adjusted positioning for all photos and border */
 #pic1, #pic3, #pic5 {
     float: left; 
     border-radius: 2%;
@@ -38,18 +36,15 @@ h1 {
 }
 
 
-
+/* Contact page.... Set all links to align on the right side */
 #links {
-    text-align: right; 
-    
-
-    
+    text-align: right;    
 }
 
+/* Added media query so viewing is correct at all dimensions */
 @media screen and (max-width:893px) {
     #pic1,#pic2,#pic3,#pic4,#pic5 {
         width:100%; 
         float:none;
-    }
-   
+    }   
 }
