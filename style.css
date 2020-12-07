@@ -24,12 +24,13 @@ h1 {
 
 #pic1, #pic3, #pic5 {
     float: left; 
+    border-radius: 2%;
     
 }
 
 #pic2, #pic4 {
     float: right;
-    
+    border-radius: 2%;
 }
 
 
