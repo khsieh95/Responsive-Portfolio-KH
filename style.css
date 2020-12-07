@@ -1,15 +1,19 @@
+/* Set background photo and font for body */
 body {background-image: url(https://github.com/khsieh95/Responsive-Portfolio-KH/blob/main/photos/pexels-henry-&-co-1939485.jpg?raw=true);
     font-family: 'Castoro', serif;
 }
 
+
+/* Attached same header to all html files */
 .header{
     color: black;
     margin-bottom: 2%;
     border-bottom: 1px solid;
 }
 
+
 h1 {
-    margin: 2% auto;     
+    margin-top : 2%;     
 }
 
 .col-3, .col-9 {
