@@ -16,6 +16,7 @@ h1 {
     margin-block: 2%;
 }
 
+
 .container {
     margin:3% auto;
     background-color: white;
@@ -31,9 +32,19 @@ h1 {
     
 }
 
+
+
+#links {
+    text-align: right; 
+    
+
+    
+}
+
 @media screen and (max-width:893px) {
     #pic1,#pic2,#pic3,#pic4,#pic5 {
         width:100%; 
         float:none;
     }
+   
 }
