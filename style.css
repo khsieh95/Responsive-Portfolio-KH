@@ -36,10 +36,13 @@ h1 {
 }
 
 
+
+
 /* Contact page.... Set all links to align on the right side */
 #links {
     text-align: right;    
 }
+
 
 /* Added media query so viewing is correct at all dimensions */
 @media screen and (max-width:893px) {
