@@ -1,5 +1,6 @@
 # Responsive-Portfolio-KH
 
+https://khsieh95.github.io/Responsive-Portfolio-KH/
 
 # Setup 
 1. 3 html files (index.html, portfolio.html, contact.html)
